@@ -1,0 +1,4 @@
+package Entities
+
+class RegularRoom() {
+}
